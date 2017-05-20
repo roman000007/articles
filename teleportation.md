@@ -4,3 +4,8 @@ While being able to transport anything large, like a cat — the example the vid
 [![Teleportation](https://i.ytimg.com/vi/dAaHHGHuy1c/maxresdefault.jpg)](https://youtu.be/DxQK1WDYI_k)
 
 This is linked to scientists achieving direct counterfactual quantum communication for the first time recently, which operates using the Zeno effect (freezing the situation by observing it) rather than entanglement. In the experiment, scientists successfully transported information using the phase of light.
+---
+#### IN BRIEF
+---
+###### Quantum physics could, theoretically, be used to fulfil the age old desire to teleport. However, any practical use is a an extremely long way off, with scientists only managing single particles so far.
+---
