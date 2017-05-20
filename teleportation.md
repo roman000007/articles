@@ -9,3 +9,8 @@ This is linked to scientists achieving direct counterfactual quantum communicati
 ---
 ###### Quantum physics could, theoretically, be used to fulfil the age old desire to teleport. However, any practical use is a an extremely long way off, with scientists only managing single particles so far.
 ---
+---
+#### My opinion
+---
+###### It`s really amazing!
+---
