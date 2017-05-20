@@ -1,4 +1,4 @@
-# Two Articles togetherin README.md for better visualization
+# Two Articles together in README.md for better visualization
 
 ## “THE BORE-ING COMPANY”
 
