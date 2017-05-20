@@ -8,3 +8,11 @@ Musk hasn’t been too clear about how the tunnel will function, but the Hyperlo
 
 For those that are curious enough to see what Musks’ boring machine looks like, he released a photo of it on Twitter recently. This might be only one part of a massive machine without the cutting head attached.
 ![Boring Machine](https://pbs.twimg.com/media/C3ynX_OWcAE-DQA.jpg)
+
+
+---
+#### OM∆R [@OfficeOfOMAR](https://twitter.com/OfficeOfOMAR)
+###### ->[@elonmusk](https://twitter.com/elonmusk)
+
+##### So Mr. Musk, are you thinking to combine Hyperloop and Tunnels to make transportation revolution.
+---
